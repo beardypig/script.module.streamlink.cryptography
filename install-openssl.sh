@@ -16,3 +16,5 @@ make depend
 make
 make install
 popd
+
+dir ${OPENSSL_DIR}
